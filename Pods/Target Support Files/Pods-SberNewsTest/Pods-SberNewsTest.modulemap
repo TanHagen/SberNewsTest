@@ -1,0 +1,6 @@
+module Pods_SberNewsTest {
+  umbrella header "Pods-SberNewsTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
